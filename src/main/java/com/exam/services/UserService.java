@@ -17,4 +17,3 @@ public interface UserService {
 
     public User updateUser(Long userId, User updatedUser);
 }
-hi
